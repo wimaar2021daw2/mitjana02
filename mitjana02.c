@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define LONG 50 //Longitud del Nom de l'alumne
+#define LONG 100 //Longitud del Nom de l'alumne
 
 void cls() {
 	printf("\033[2J");
