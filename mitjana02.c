@@ -1,3 +1,9 @@
+//mitjana02.c --> Exercici 6  - M10UF1 - ARI1 - Llista d'exercicis m10_exerC.pdf
+//Compilació: gcc mitjan02.c -o mitjana02
+//Execució: ./mitjan02
+//Data: 18-1-17 
+//Autor: dc1819daw2
+
 #include <stdio.h>
 
 #define LONG 50 //Longitud del Nom de l'alumne
