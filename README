@@ -1,0 +1,5 @@
+1- Programa mitjana02 (v0.1)
+2- Autor: dcm1819daw2
+3- Per compilar el programa, executa:
+	gcc mitjana02.c -o mitjana02
+
